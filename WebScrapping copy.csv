@@ -1,0 +1,1674 @@
+Date,State,City_country,n_killed,n_injured
+"January 1, 2014",Virginia,Norfolk,2,2
+"January 3, 2014",New York,Queens,1,3
+"January 5, 2014",Pennsylvania,Erie,1,3
+"January 11, 2014",Mississippi,Jackson,0,4
+"January 12, 2014",Alabama,Huntsville,0,5
+"January 12, 2014",Illinois,Elgin,0,5
+"January 12, 2014",Louisiana,Tallulah,0,6
+"January 13, 2014",Michigan,Detroit,0,4
+"January 14, 2014",California,Los Angeles,0,4
+"January 16, 2014",Utah,Spanish Fork,5,0
+"January 16, 2014",Oklahoma,Ardmore,2,5
+"January 20, 2014",Virginia,Manassas,0,4
+"January 21, 2014",New Jersey,Newark,2,3
+"January 25, 2014",Florida,Belle Glade,0,4
+"January 25, 2014",Illinois,Chicago,1,4
+"January 27, 2014",Washington,Seattle,1,4
+"January 27, 2014",North Carolina,Rocky Mount,0,4
+"February 3, 2014",Indiana,Franklin,3,2
+"February 5, 2014",Illinois,Chicago,1,3
+"February 6, 2014",Louisiana,New Orleans,0,4
+"February 7, 2014",Florida,Miami,0,5
+"February 12, 2014",California,Stockton,1,3
+"February 12, 2014",California,Oakland,1,3
+"February 12, 2014",Indiana,Gary,0,5
+"February 15, 2014",Nevada,Las Vegas,0,5
+"February 16, 2014",Florida,Orange County,1,6
+"February 16, 2014",Florida,Jacksonville,1,4
+"February 16, 2014",Texas,Dallas,1,7
+"February 16, 2014",Indiana,Fort Wayne,0,5
+"February 16, 2014",Texas,Fort Worth,1,4
+"February 20, 2014",California,Alturas,4,2
+"February 20, 2014",Indiana,Indianapolis,4,0
+"February 22, 2014",California,Wilmington,0,4
+"February 25, 2014",Virginia,Glade Spring,5,1
+"March 1, 2014",Michigan,Detroit,0,4
+"March 1, 2014",Pennsylvania,Pittsburgh,1,4
+"March 5, 2014",South Carolina,Pelzer,3,2
+"March 8, 2014",Illinois,Chicago,0,6
+"March 8, 2014",California,Richmond,1,3
+"March 9, 2014",Texas,Austin,0,6
+"March 9, 2014",Ohio,Fremont,3,1
+"March 14, 2014",New York,Brooklyn,0,4
+"March 16, 2014",Georgia,Waynesboro,0,4
+"March 16, 2014",Texas,Beaumont,3,1
+"March 21, 2014",South Carolina,North Charleston,0,4
+"March 23, 2014",California,San Francisco,0,7
+"March 23, 2014",California,Long Beach,1,3
+"March 23, 2014",Texas,Arlington,1,3
+"March 30, 2014",North Carolina,Charlotte,0,5
+"March 30, 2014",Mississippi,Starkville,0,5
+"April 2, 2014",Texas,Fort Hood,4,16
+"April 5, 2014",California,Fairfield,0,4
+"April 5, 2014",Arizona,Phoenix,1,3
+"April 5, 2014",Illinois,Chicago,1,5
+"April 6, 2014",Oklahoma,Oklahoma City,0,4
+"April 6, 2014",Massachusetts,Springfield,0,4
+"April 7, 2014",Louisiana,New Orleans,0,4
+"April 9, 2014",Illinois,Rockford,0,4
+"April 9, 2014",Tennessee,Lookout Valley,3,1
+"April 11, 2014",Indiana,Richmond,0,4
+"April 12, 2014",Louisiana,New Orleans,1,3
+"April 14, 2014",District of Columbia,Washington,0,4
+"April 20, 2014",Illinois,Chicago,0,5
+"April 20, 2014",Florida,Tampa,2,2
+"April 20, 2014",Illinois,Montgomery,0,6
+"April 22, 2014",California,Los Angeles,1,3
+"April 25, 2014",Tennessee,Memphis,2,3
+"April 27, 2014",New York,Troy,0,5
+"April 29, 2014",Georgia,Kennesaw,1,6
+"April 30, 2014",Illinois,Chicago,0,4
+"May 3, 2014",Arkansas,Jonesboro,4,4
+"May 4, 2014",Colorado,Wheat Ridge,0,4
+"May 4, 2014",Illinois,Chicago,1,3
+"May 10, 2014",Georgia,Decatur,2,3
+"May 10, 2014",California,Sacramento,1,6
+"May 10, 2014",Georgia,Stone Mountain,1,3
+"May 11, 2014",California,Sacramento,1,6
+"May 11, 2014",Tennessee,Memphis,0,7
+"May 12, 2014",Illinois,Chicago,0,4
+"May 13, 2014",Georgia,Atlanta,0,5
+"May 17, 2014",District of Columbia,Washington,0,5
+"May 17, 2014",California,Coachella,1,3
+"May 18, 2014",Ohio,Sandusky,0,7
+"May 21, 2014",Texas,Dallas,1,3
+"May 23, 2014",California,Bellflower,2,2
+"May 23, 2014",Louisiana,New Orleans,1,7
+"May 23, 2014",California,Goleta (Isla Vista),4,8
+"May 24, 2014",Michigan,Detroit,0,4
+"May 24, 2014",South Carolina,Myrtle Beach,3,1
+"May 25, 2014",Ohio,Toledo,1,3
+"May 31, 2014",California,San Bernardino,1,3
+"June 1, 2014",Illinois,Chicago,1,5
+"June 1, 2014",California,Sacramento,0,4
+"June 2, 2014",Illinois,Chicago,0,7
+"June 3, 2014",Georgia,Atlanta,1,4
+"June 4, 2014",Illinois,Chicago,1,3
+"June 7, 2014",South Carolina,Moncks Corner,1,5
+"June 7, 2014",Michigan,Oak Park,1,3
+"June 8, 2014",Alabama,Opp,1,4
+"June 9, 2014",New Jersey,Paterson,0,6
+"June 13, 2014",California,Los Angeles,3,1
+"June 15, 2014",Illinois,Park Forest,0,4
+"June 15, 2014",Indiana,Kokomo,0,4
+"June 20, 2014",Maryland,Seat Pleasant,0,4
+"June 21, 2014",Tennessee,Memphis,0,5
+"June 21, 2014",District of Columbia,Washington,0,4
+"June 22, 2014",California,Windsor,1,3
+"June 24, 2014",Florida,Miami,2,7
+"June 25, 2014",Massachusetts,Lowell,0,5
+"June 26, 2014",Wisconsin,Milwaukee,0,5
+"June 26, 2014",Michigan,Detroit,2,2
+"June 27, 2014",California,San Diego,1,3
+"June 28, 2014",New York,Manhattan,0,4
+"June 28, 2014",California,Antioch,0,7
+"June 29, 2014",California,Los Angeles,1,5
+"June 29, 2014",Missouri,Saint Louis,0,4
+"June 29, 2014",Louisiana,New Orleans,1,9
+"June 30, 2014",Kentucky,Lexington,1,3
+"July 2, 2014",Pennsylvania,Chester,0,5
+"July 4, 2014",Virginia,Norfolk,0,5
+"July 5, 2014",Oregon,Portland,1,4
+"July 5, 2014",Indiana,Indianapolis,0,7
+"July 5, 2014",Texas,Houston,0,6
+"July 5, 2014",Illinois,Centreville,0,5
+"July 5, 2014",Virginia,Norfolk,0,7
+"July 6, 2014",Missouri,Saint Louis,0,4
+"July 6, 2014",New York,Buffalo,0,4
+"July 6, 2014",Florida,Miami,2,2
+"July 7, 2014",California,San Bernardino,1,4
+"July 7, 2014",Kentucky,Stopover,0,4
+"July 8, 2014",Rhode Island,Providence,0,5
+"July 9, 2014",Texas,Spring,6,1
+"July 11, 2014",Illinois,Chicago,1,3
+"July 12, 2014",California,Pasadena,3,2
+"July 13, 2014",Washington,Skyway,0,5
+"July 13, 2014",Connecticut,Stamford,0,5
+"July 13, 2014",District of Columbia,Washington,0,4
+"July 14, 2014",California,Sacramento,1,4
+"July 19, 2014",Illinois,Chicago,0,4
+"July 20, 2014",Nevada,Las Vegas,1,3
+"July 20, 2014",Illinois,East Saint Louis,1,3
+"July 21, 2014",New Jersey,Irvington,0,6
+"July 21, 2014",Tennessee,Memphis,0,4
+"July 23, 2014",Pennsylvania,Braddock,0,4
+"July 25, 2014",Illinois,Chicago,1,6
+"July 26, 2014",Georgia,Sylvester,0,8
+"July 26, 2014",Maine,Saco,5,0
+"July 26, 2014",Arkansas,Pine Bluff,1,3
+"July 27, 2014",Missouri,Saint Louis,0,5
+"July 28, 2014",Pennsylvania,Philadelphia,1,4
+"July 30, 2014",North Carolina,Hope Mills,2,3
+"August 1, 2014",Pennsylvania,Philadelphia,1,3
+"August 2, 2014",Massachusetts,New Bedford,0,7
+"August 2, 2014",Pennsylvania,Pittsburgh,1,5
+"August 2, 2014",Texas,Dallas,3,1
+"August 3, 2014",Tennessee,Columbia,0,5
+"August 3, 2014",Missouri,Saint Louis,0,5
+"August 3, 2014",Virginia,Culpeper,5,0
+"August 3, 2014",Texas,Humble,0,7
+"August 4, 2014",Georgia,Atlanta,0,5
+"August 6, 2014",California,Bakersfield,3,1
+"August 8, 2014",Wisconsin,Milwaukee,0,4
+"August 8, 2014",New Mexico,Albuquerque,1,3
+"August 8, 2014",District of Columbia,Washington,0,4
+"August 9, 2014",Minnesota,Minneapolis,1,8
+"August 10, 2014",California,Moreno Valley,0,7
+"August 10, 2014",District of Columbia,Washington,0,6
+"August 10, 2014",Georgia,Wrightsville,0,6
+"August 10, 2014",Louisiana,New Orleans,2,5
+"August 12, 2014",New York,Buffalo,1,3
+"August 12, 2014",Georgia,Cartersville,2,3
+"August 13, 2014",Tennessee,Clarksville,0,4
+"August 13, 2014",Louisiana,New Orleans,0,4
+"August 14, 2014",Tennessee,Memphis,1,3
+"August 16, 2014",New Jersey,Plainfield,1,3
+"August 16, 2014",Utah,Salt Lake City,0,6
+"August 17, 2014",Nevada,Las Vegas,0,4
+"August 17, 2014",New York,Queens,0,4
+"August 17, 2014",Massachusetts,Boston,0,4
+"August 17, 2014",California,East Palo Alto,1,3
+"August 18, 2014",Louisiana,Saint Martinville,0,4
+"August 20, 2014",Tennessee,Memphis,0,5
+"August 24, 2014",California,San Fernando,3,4
+"August 24, 2014",Illinois,Chicago,1,3
+"August 24, 2014",Georgia,Augusta,1,3
+"August 27, 2014",Michigan,Detroit,1,3
+"August 29, 2014",Florida,Brooksville,3,1
+"August 31, 2014",California,Livermore,0,5
+"September 2, 2014",California,Highland,0,5
+"September 2, 2014",Mississippi,Jackson,2,3
+"September 3, 2014",California,Los Angeles,0,6
+"September 4, 2014",Michigan,Flint,0,5
+"September 6, 2014",Georgia,Macon,0,5
+"September 6, 2014",Florida,Orlando,0,4
+"September 11, 2014",Michigan,Detroit,1,7
+"September 14, 2014",Alaska,Anchorage,0,6
+"September 14, 2014",Texas,Flour Bluff,3,1
+"September 15, 2014",Louisiana,New Orleans,0,5
+"September 18, 2014",Florida,Bell,8,0
+"September 19, 2014",New York,Queens,0,4
+"September 20, 2014",Mississippi,Batesville,2,2
+"September 21, 2014",Ohio,East Liverpool,0,4
+"September 26, 2014",South Carolina,Darlington County,1,4
+"September 27, 2014",Missouri,Saint Louis,0,5
+"September 28, 2014",Florida,Miami,0,15
+"September 28, 2014",Pennsylvania,Philadelphia,0,4
+"September 29, 2014",California,Fresno,0,4
+"September 29, 2014",South Carolina,Walterboro,1,7
+"October 4, 2014",California,Pomona,0,4
+"October 4, 2014",Tennessee,Memphis,2,2
+"October 5, 2014",Michigan,Detroit,1,5
+"October 5, 2014",Florida,Jacksonville,3,1
+"October 8, 2014",New York,Guilderland,4,0
+"October 8, 2014",Georgia,Atlanta,0,4
+"October 11, 2014",New York,Utica,0,5
+"October 12, 2014",California,Stockton,3,1
+"October 12, 2014",Georgia,Atlanta,1,3
+"October 13, 2014",Georgia,Atlanta,0,4
+"October 14, 2014",Georgia,Peachtree Corners,3,2
+"October 16, 2014",Michigan,Detroit,1,3
+"October 18, 2014",South Carolina,Graniteville,1,3
+"October 18, 2014",New York,Brooklyn,0,4
+"October 18, 2014",New York,Queens,0,4
+"October 24, 2014",Washington,Marysville,5,1
+"October 26, 2014",Kentucky,Cadiz,4,0
+"October 29, 2014",Tennessee,Memphis,0,5
+"November 5, 2014",California,San Francisco,0,4
+"November 7, 2014",California,Compton,0,4
+"November 7, 2014",California,Los Angeles,0,4
+"November 8, 2014",California,Pomona,0,5
+"November 15, 2014",Florida,Miami,1,3
+"November 15, 2014",Missouri,Springfield,4,0
+"November 16, 2014",Texas,El Paso,0,6
+"November 16, 2014",Ohio,Akron,1,4
+"November 18, 2014",Nevada,North Las Vegas,0,4
+"November 19, 2014",Illinois,Chicago,1,3
+"November 21, 2014",Pennsylvania,Pittsburgh,0,6
+"November 22, 2014",Ohio,Springfield,1,3
+"November 22, 2014",South Dakota,Sisseton,4,1
+"November 22, 2014",Ohio,Cleveland,4,1
+"November 23, 2014",Colorado,Denver,1,4
+"November 23, 2014",Virginia,Parksley,0,4
+"November 26, 2014",California,San Francisco,0,6
+"November 27, 2014",Texas,Georgetown,2,3
+"November 28, 2014",Tennessee,Memphis,0,4
+"November 29, 2014",New Jersey,Newark,1,3
+"November 29, 2014",Georgia,Atlanta,3,2
+"November 30, 2014",New York,Brooklyn,0,4
+"November 30, 2014",Tennessee,Chattanooga,0,5
+"December 2, 2014",Virginia,Newport News,0,5
+"December 2, 2014",Missouri,Saint Louis,1,5
+"December 7, 2014",Indiana,South Bend,0,4
+"December 12, 2014",Oregon,Portland,0,4
+"December 13, 2014",Florida,Tampa,0,5
+"December 14, 2014",Florida,Miami,1,4
+"December 15, 2014",Pennsylvania,Lansdale,7,0
+"December 16, 2014",New Jersey,Elizabeth,0,4
+"December 20, 2014",Illinois,Rockford,4,0
+"December 21, 2014",Illinois,Calumet City,1,8
+"December 21, 2014",Mississippi,Waynesboro,1,4
+"December 21, 2014",Florida,Sarasota,2,2
+"December 22, 2014",Illinois,Chicago,0,5
+"December 22, 2014",New York,Webster,4,2
+"December 22, 2014",Michigan,Detroit,1,3
+"December 23, 2014",Kentucky,Winchester,1,3
+"December 24, 2014",Missouri,Saint Louis,1,3
+"December 26, 2014",Illinois,East St. Louis,1,3
+"December 27, 2014",California,Sacramento,0,4
+"December 27, 2014",California,Los Angeles,1,3
+"December 29, 2014",Louisiana,New Orleans,0,4
+"January 1, 2015",Tennessee,Memphis,0,5
+"January 2, 2015",Georgia,Savannah,1,4
+"January 4, 2015",Texas,Dallas,3,1
+"January 4, 2015",Virginia,Roanoke,2,4
+"January 6, 2015",Florida,Miami,1,3
+"January 7, 2015",Tennessee,Chattanooga,1,3
+"January 8, 2015",Massachusetts,Boston,1,3
+"January 9, 2015",California,San Francisco,4,0
+"January 10, 2015",Kansas,Wichita,2,2
+"January 11, 2015",California,San Jose,0,5
+"January 11, 2015",Florida,Lakeland,1,3
+"January 11, 2015",North Carolina,Hope Mills,2,5
+"January 13, 2015",Virginia,Portsmouth,0,5
+"January 13, 2015",Illinois,Rockford,2,2
+"January 19, 2015",Texas,San Antonio,2,5
+"January 20, 2015",Tennessee,Clarksville,1,3
+"January 23, 2015",Massachusetts,Boston,0,6
+"January 24, 2015",Nebraska,Omaha,3,5
+"January 24, 2015",New York,Arverne (Queens),4,1
+"January 26, 2015",California,Stockton,1,3
+"January 28, 2015",Georgia,Dekalb County,1,3
+"January 31, 2015",Georgia,Lagrange,4,0
+"February 1, 2015",New York,New York (Manhattan),1,4
+"February 1, 2015",New York,Syracuse,0,6
+"February 5, 2015",Ohio,Beachwood (Warrensville Heights),3,3
+"February 6, 2015",Oklahoma,Tulsa,1,4
+"February 7, 2015",Georgia,Douglasville,5,2
+"February 8, 2015",Tennessee,Friendship,0,6
+"February 9, 2015",Florida,New Port Richey,3,1
+"February 15, 2015",California,Long Beach,0,5
+"February 17, 2015",Arkansas,Little Rock,1,3
+"February 20, 2015",California,Sacramento,0,4
+"February 22, 2015",South Carolina,Charleston,0,4
+"February 22, 2015",Georgia,Clarkesville,3,2
+"February 22, 2015",Texas,Killeen,4,1
+"February 23, 2015",Florida,Daytona Beach,0,4
+"February 25, 2015",Texas,Houston,3,1
+"February 26, 2015",Missouri,Tyrone,8,1
+"February 28, 2015",Maryland,Baltimore,1,3
+"March 1, 2015",Michigan,Detroit,1,5
+"March 1, 2015",Florida,Orange County,0,4
+"March 4, 2015",California,San Bernardino,3,4
+"March 7, 2015",Missouri,Saint Louis,0,4
+"March 8, 2015",South Carolina,Seneca,1,3
+"March 9, 2015",Illinois,Chicago,1,3
+"March 10, 2015",Georgia,Columbus,0,5
+"March 13, 2015",Mississippi,Brookhaven,2,3
+"March 14, 2015",California,Coachella,0,4
+"March 14, 2015",Georgia,Atlanta,0,5
+"March 15, 2015",California,Compton,0,4
+"March 17, 2015",California,Stockton,3,4
+"March 18, 2015",Arizona,Mesa,1,5
+"March 18, 2015",New Jersey,Newark,1,3
+"March 20, 2015",Texas,Lancaster,1,5
+"March 20, 2015",Oklahoma,Oklahoma City,0,4
+"March 21, 2015",Florida,Tampa,0,4
+"March 22, 2015",New Mexico,Albuquerque,1,6
+"March 23, 2015",Tennessee,Clarksville,1,4
+"March 24, 2015",Indiana,Indianapolis,4,0
+"March 26, 2015",Texas,Amarillo,0,4
+"March 27, 2015",Florida,Panama City Beach,0,7
+"April 2, 2015",Maryland,Baltimore,0,5
+"April 3, 2015",Florida,Daytona Beach,0,4
+"April 5, 2015",Michigan,Benton Harbor,0,4
+"April 5, 2015",Indiana,Indianapolis,0,5
+"April 5, 2015",Kentucky,Louisville,1,4
+"April 5, 2015",Pennsylvania,Pittsburgh,1,3
+"April 7, 2015",Georgia,Rome,1,3
+"April 16, 2015",Arizona,Phoenix,5,0
+"April 18, 2015",New Jersey,Paterson,1,3
+"April 18, 2015",North Carolina,Charlotte,0,4
+"April 18, 2015",North Carolina,Lumberton,1,3
+"April 18, 2015",Pennsylvania,Williamsport,0,5
+"April 18, 2015",Alabama,Montgomery,0,5
+"April 19, 2015",Virginia,Richmond,0,4
+"April 21, 2015",Texas,Killeen,2,3
+"April 25, 2015",New York,Gates,1,6
+"April 25, 2015",New Jersey,Trenton,0,4
+"April 27, 2015",Arizona,Gila Bend,2,2
+"April 27, 2015",New York,Brooklyn,2,4
+"May 1, 2015",Wisconsin,Milwaukee,2,3
+"May 3, 2015",Wisconsin,Menasha,4,1
+"May 3, 2015",Ohio,Dayton,1,6
+"May 3, 2015",New York,Bronx,0,4
+"May 3, 2015",Texas,Houston,0,6
+"May 3, 2015",Indiana,South Bend,0,4
+"May 4, 2015",New York,Buffalo,1,3
+"May 7, 2015",Michigan,Detroit,0,4
+"May 7, 2015",Ohio,Cincinnati,0,4
+"May 10, 2015",New Jersey,Newark,1,3
+"May 10, 2015",New Jersey,Jersey City,0,4
+"May 10, 2015",Ohio,Cleveland,1,4
+"May 12, 2015",Arizona,Tucson,5,0
+"May 12, 2015",Maryland,Capitol Heights,1,4
+"May 16, 2015",Maryland,Baltimore,0,5
+"May 16, 2015",New York,Rochester,0,4
+"May 16, 2015",Wisconsin,Milwaukee,0,5
+"May 17, 2015",Texas,Waco,9,18
+"May 18, 2015",Florida,Miami,1,4
+"May 18, 2015",Missouri,Kinloch,0,4
+"May 20, 2015",Maryland,Baltimore,1,3
+"May 23, 2015",California,Fresno,2,2
+"May 24, 2015",Missouri,Saint Louis,0,4
+"May 24, 2015",Alabama,Montgomery,1,3
+"May 24, 2015",Michigan,Flint,0,7
+"May 24, 2015",Massachusetts,Brockton,0,5
+"May 25, 2015",Illinois,Decatur,1,4
+"May 26, 2015",Louisiana,New Orleans,2,2
+"May 28, 2015",Pennsylvania,Chester,1,3
+"May 28, 2015",Illinois,Chicago,0,5
+"May 28, 2015",Nebraska,Omaha,0,4
+"May 30, 2015",California,San Diego,0,4
+"May 31, 2015",Georgia,Conyers,3,2
+"May 31, 2015",Connecticut,New Haven,0,5
+"May 31, 2015",Maryland,Springdale,1,3
+"May 31, 2015",Ohio,Cleveland,3,1
+"June 3, 2015",New York,Wyandanch,3,1
+"June 5, 2015",Louisiana,New Orleans,1,3
+"June 5, 2015",Iowa,Davenport,0,5
+"June 6, 2015",Illinois,Chicago,0,5
+"June 6, 2015",New York,Buffalo,1,4
+"June 7, 2015",Montana,Deer Lodge,5,0
+"June 9, 2015",Missouri,Saint Louis,1,3
+"June 10, 2015",California,Los Angeles,1,3
+"June 11, 2015",Texas,Houston,1,3
+"June 11, 2015",Connecticut,Bridgeport,1,8
+"June 12, 2015",Florida,Allapattah,0,4
+"June 13, 2015",Ohio,Columbus,4,1
+"June 13, 2015",New York,Bronx,0,5
+"June 13, 2015",Georgia,Milledgeville,1,3
+"June 13, 2015",Oklahoma,Oklahoma City,0,4
+"June 13, 2015",Georgia,Fayetteville,1,4
+"June 14, 2015",Missouri,Saint Louis,0,4
+"June 14, 2015",Oklahoma,Tulsa,0,4
+"June 14, 2015",New Jersey,Camden,1,3
+"June 15, 2015",New York,Brooklyn,0,4
+"June 16, 2015",Florida,Miami Gardens,0,4
+"June 17, 2015",South Carolina,Charleston,9,0
+"June 19, 2015",Rhode Island,Woonsocket,0,4
+"June 20, 2015",Pennsylvania,Philadelphia,0,11
+"June 20, 2015",Michigan,Detroit,1,11
+"June 20, 2015",North Carolina,Morven,0,4
+"June 21, 2015",Kentucky,Lexington,1,4
+"June 21, 2015",Pennsylvania,Pittsburgh (Wilkinsburg),0,4
+"June 22, 2015",Pennsylvania,Philadelphia,0,7
+"June 24, 2015",New York,New York (Manhattan),0,4
+"June 27, 2015",Michigan,Detroit,0,4
+"June 27, 2015",Massachusetts,Taunton,1,3
+"June 28, 2015",Delaware,Harrington,0,6
+"June 28, 2015",Illinois,Venice,0,6
+"June 28, 2015",Michigan,Detroit,0,5
+"June 29, 2015",Florida,Opa Locka,0,4
+"July 2, 2015",Indiana,Indianapolis,1,3
+"July 4, 2015",Texas,San Antonio,0,4
+"July 4, 2015",New York,Syracuse,0,4
+"July 4, 2015",Massachusetts,Pittsfield,1,4
+"July 4, 2015",Kentucky,Louisville,0,4
+"July 4, 2015",District of Columbia,Washington,1,3
+"July 5, 2015",New Jersey,East Orange,1,3
+"July 5, 2015",Indiana,Fort Wayne,0,9
+"July 5, 2015",Louisiana,Shreveport,0,8
+"July 7, 2015",Maryland,Baltimore,3,1
+"July 7, 2015",Ohio,Cleveland,1,3
+"July 12, 2015",New Jersey,Jersey City,0,4
+"July 12, 2015",Illinois,River Forest,2,3
+"July 13, 2015",California,Stockton,1,4
+"July 13, 2015",California,Norwalk,0,4
+"July 14, 2015",Missouri,Saint Louis,0,4
+"July 15, 2015",South Carolina,Holly Hill,4,1
+"July 15, 2015",Michigan,Detroit,0,4
+"July 15, 2015",Ohio,Cleveland,0,7
+"July 15, 2015",Maryland,Baltimore,1,3
+"July 15, 2015",Georgia,Atlanta,0,5
+"July 16, 2015",Texas,Dallas,0,5
+"July 16, 2015",Tennessee,Chattanooga,6,2
+"July 17, 2015",Ohio,Cincinnati (Westwood),0,4
+"July 17, 2015",Illinois,Chicago,0,5
+"July 18, 2015",Louisiana,Baton Rouge,2,2
+"July 18, 2015",Oregon,Salem,1,4
+"July 18, 2015",California,Santa Paula,0,5
+"July 18, 2015",California,San Diego,0,4
+"July 19, 2015",North Carolina,Rocky Mount,0,4
+"July 19, 2015",Kentucky,Louisville,0,6
+"July 19, 2015",Virginia,Suffolk,0,4
+"July 20, 2015",New York,Bronx,0,6
+"July 21, 2015",Florida,Miami Gardens,1,3
+"July 22, 2015",Georgia,Suwanee,5,0
+"July 22, 2015",Missouri,Saint Louis,0,6
+"July 23, 2015",Louisiana,Lafayette,3,9
+"July 24, 2015",Pennsylvania,Erie,2,5
+"July 25, 2015",Virginia,Hopewell,0,4
+"July 26, 2015",Louisiana,New Orleans,0,4
+"July 26, 2015",Missouri,Kansas City,2,3
+"July 27, 2015",Illinois,Rockford,0,5
+"July 30, 2015",Pennsylvania,Pittsburgh,0,4
+"August 1, 2015",Florida,Orlando,0,4
+"August 2, 2015",Illinois,Chicago,0,4
+"August 2, 2015",Georgia,Savannah,0,5
+"August 2, 2015",Illinois,Chicago,1,4
+"August 2, 2015",Maryland,Baltimore,0,7
+"August 2, 2015",New York,Brooklyn,0,9
+"August 3, 2015",New York,Brooklyn,0,5
+"August 4, 2015",Missouri,Saint Louis,1,4
+"August 6, 2015",South Carolina,Columbia,0,4
+"August 7, 2015",Vermont,Barre (Berlin),4,0
+"August 8, 2015",Texas,Houston,8,0
+"August 8, 2015",Arkansas,Blytheville,1,11
+"August 8, 2015",North Carolina,Gastonia,2,3
+"August 9, 2015",Missouri,Kansas City,0,4
+"August 9, 2015",Michigan,Detroit,1,3
+"August 9, 2015",Mississippi,Forest,1,3
+"August 10, 2015",California,Long Beach,0,4
+"August 15, 2015",South Carolina,Orangeburg,1,3
+"August 15, 2015",California,Los Angeles,0,4
+"August 15, 2015",Pennsylvania,Pittsburgh,1,3
+"August 16, 2015",South Carolina,Bennettsville,0,5
+"August 16, 2015",Illinois,Chicago,0,4
+"August 16, 2015",Texas,Fort Worth,0,6
+"August 19, 2015",New York,Rochester,3,4
+"August 20, 2015",Texas,Grulla (La Grulla),2,2
+"August 21, 2015",Ohio,Cincinnati,2,5
+"August 21, 2015",North Carolina,Durham,0,8
+"August 22, 2015",New Mexico,Roswell,3,1
+"August 22, 2015",Florida,Orlando (Pine Hills),0,4
+"August 23, 2015",California,Modesto,1,7
+"August 25, 2015",Louisiana,New Orleans,1,3
+"August 26, 2015",Florida,West Palm Beach,2,2
+"August 26, 2015",Minnesota,Minneapolis (Brooklyn Center),0,4
+"August 26, 2015",Illinois,Chicago,2,2
+"August 27, 2015",California,Salinas,2,2
+"August 28, 2015",New York,Brooklyn,1,3
+"August 29, 2015",Texas,Tyler,1,3
+"August 29, 2015",Tennessee,Bristol,3,2
+"August 30, 2015",Tennessee,Memphis,1,4
+"September 5, 2015",Missouri,Columbia,0,4
+"September 5, 2015",Nevada,Las Vegas,1,3
+"September 5, 2015",Florida,Daytona Beach,0,4
+"September 5, 2015",North Carolina,Charlotte,1,3
+"September 7, 2015",Colorado,Denver,0,4
+"September 7, 2015",Indiana,Gary,2,4
+"September 8, 2015",Illinois,Chicago,0,4
+"September 8, 2015",Georgia,Berlin,0,4
+"September 10, 2015",Minnesota,Excelsior (Greenwood),5,0
+"September 11, 2015",North Carolina,Charlotte,0,5
+"September 12, 2015",Minnesota,Minneapolis,1,3
+"September 12, 2015",Minnesota,Minneapolis,0,6
+"September 12, 2015",New York,Rochester,2,4
+"September 12, 2015",Louisiana,Shreveport,0,4
+"September 13, 2015",Florida,Ocala,1,5
+"September 15, 2015",New Jersey,Newark,0,4
+"September 17, 2015",Michigan,Albion,0,4
+"September 17, 2015",South Dakota,Geddes,6,0
+"September 19, 2015",Indiana,Indianapolis,1,3
+"September 20, 2015",Oklahoma,Tulsa,0,6
+"September 20, 2015",Illinois,Chicago,1,5
+"September 20, 2015",Pennsylvania,Philadelphia,1,3
+"September 23, 2015",Georgia,Norcross,1,3
+"September 23, 2015",Florida,Fort Myers,0,4
+"September 23, 2015",Louisiana,Shreveport,0,5
+"September 24, 2015",Illinois,Chicago,0,5
+"September 25, 2015",Illinois,Danville,0,4
+"September 27, 2015",Missouri,Kansas City,0,4
+"September 27, 2015",Illinois,Chicago,0,4
+"September 27, 2015",Georgia,Greenville,0,10
+"September 28, 2015",Ohio,Dayton,0,4
+"September 28, 2015",Illinois,Chicago,2,3
+"September 28, 2015",Illinois,Chicago,3,2
+"September 28, 2015",Ohio,Cincinnati (Evanston),0,5
+"October 1, 2015",Oregon,Roseburg,10,9
+"October 2, 2015",Maryland,Baltimore,1,4
+"October 6, 2015",Maryland,Baltimore,0,5
+"October 9, 2015",Arizona,Flagstaff,1,3
+"October 10, 2015",Illinois,Peoria,1,3
+"October 10, 2015",North Carolina,Charlotte,0,4
+"October 10, 2015",Tennessee,Memphis,0,6
+"October 12, 2015",Georgia,Decatur,0,4
+"October 17, 2015",Florida,Fort Myers,1,4
+"October 17, 2015",Indiana,Elkhart,0,4
+"October 18, 2015",Louisiana,New Orleans,0,4
+"October 19, 2015",Illinois,Calumet City,0,6
+"October 22, 2015",Tennessee,Nashville,1,3
+"October 24, 2015",South Carolina,Bamberg,0,4
+"October 25, 2015",District of Columbia,Washington,0,5
+"October 25, 2015",Arizona,Phoenix,1,4
+"October 25, 2015",North Carolina,Four Oaks,0,5
+"October 26, 2015",Indiana,Evansville,0,5
+"October 27, 2015",Texas,Fort Worth,0,5
+"October 28, 2015",Louisiana,Houma,1,3
+"November 2, 2015",South Carolina,Pendleton,4,0
+"November 3, 2015",Florida,Jacksonville,2,3
+"November 6, 2015",California,Bakersfield,0,4
+"November 7, 2015",Colorado,Denver,1,3
+"November 8, 2015",Michigan,Warren,0,4
+"November 8, 2015",Iowa,Des Moines,1,3
+"November 9, 2015",Indiana,Indianapolis,2,2
+"November 13, 2015",Florida,Jacksonville,4,1
+"November 14, 2015",Pennsylvania,Johnstown,0,4
+"November 15, 2015",Pennsylvania,Philadelphia,0,4
+"November 15, 2015",Texas,Tennessee Colony,5,0
+"November 16, 2015",Alabama,Cedar Bluff,3,1
+"November 18, 2015",California,Fresno,0,5
+"November 20, 2015",Pennsylvania,Pittsburgh,1,3
+"November 21, 2015",Maryland,Baltimore,1,3
+"November 22, 2015",Louisiana,New Orleans,0,17
+"November 22, 2015",Illinois,Chicago,0,4
+"November 22, 2015",South Carolina,North Charleston,1,3
+"November 22, 2015",New York,Newburgh,0,5
+"November 22, 2015",Washington,Seattle,0,4
+"November 22, 2015",Texas,Brownsville,0,4
+"November 23, 2015",Minnesota,Minneapolis,0,5
+"November 23, 2015",Ohio,Columbus,4,1
+"November 24, 2015",South Carolina,Horry (county),0,4
+"November 27, 2015",California,Sacramento,2,2
+"November 27, 2015",Colorado,Colorado Springs,3,9
+"November 29, 2015",Illinois,Kankakee,0,5
+"December 2, 2015",Georgia,Savannah,1,3
+"December 2, 2015",California,San Bernardino,16,19
+"December 6, 2015",Nebraska,Omaha,2,3
+"December 6, 2015",Louisiana,Raceland,1,3
+"December 8, 2015",Ohio,Cincinnati (Fairmount),1,3
+"December 11, 2015",Pennsylvania,Pittsburgh (Mount Oliver),0,4
+"December 11, 2015",Maryland,Baltimore,1,3
+"December 12, 2015",Illinois,Lovejoy (Brooklyn),1,3
+"December 12, 2015",Georgia,Savannah,0,4
+"December 13, 2015",California,Huntington Beach,0,4
+"December 13, 2015",California,Los Angeles,1,3
+"December 20, 2015",Florida,Miami (Goulds),1,4
+"December 20, 2015",North Carolina,Wilmington,1,4
+"December 20, 2015",Florida,Golden Glades,0,4
+"December 21, 2015",California,San Leandro,0,4
+"December 25, 2015",Alabama,Mobile,0,4
+"December 25, 2015",Florida,Jacksonville,0,4
+"December 26, 2015",Pennsylvania,Philadelphia,0,4
+"December 27, 2015",Tennessee,Jackson,0,4
+"December 31, 2015",Louisiana,New Orleans,0,6
+"December 31, 2016",Georgia,Lenox (El Dorado),2,2
+"December 31, 2016",Texas,Houston,1,3
+"December 30, 2016",Ohio,Mansfield,0,5
+"December 30, 2016",Connecticut,Wallingford,2,3
+"December 28, 2016",Georgia,Columbus,1,4
+"December 25, 2016",Illinois,Chicago,3,4
+"December 25, 2016",Alabama,Ozark,0,4
+"December 25, 2016",New York,Mount Vernon,1,5
+"December 24, 2016",North Carolina,Madison,0,7
+"December 24, 2016",North Carolina,Wilson,4,0
+"December 23, 2016",Alabama,Birmingham,1,3
+"December 23, 2016",Illinois,Chicago,0,4
+"December 17, 2016",Illinois,Chicago (Roseland),5,0
+"December 17, 2016",North Carolina,Charlotte,0,4
+"December 16, 2016",Illinois,Chicago,0,4
+"December 16, 2016",Illinois,Chicago,2,2
+"December 12, 2016",California,Sacramento,1,3
+"December 11, 2016",New York,Brooklyn,0,4
+"December 11, 2016",Florida,Orlando (Pine Hills),1,4
+"December 11, 2016",Maryland,Baltimore,0,5
+"December 11, 2016",North Carolina,Rocky Mount,0,4
+"December 9, 2016",Texas,Channelview,4,0
+"December 9, 2016",California,Fresno,0,4
+"December 5, 2016",New Mexico,Albuquerque,4,1
+"December 3, 2016",California,Los Angeles,0,6
+"December 2, 2016",New Jersey,Bloomfield,0,6
+"December 1, 2016",California,Clearlake Oaks,1,3
+"November 30, 2016",Maryland,Baltimore,2,4
+"November 28, 2016",Texas,Mission (Palmview),1,3
+"November 28, 2016",California,Wilmington,0,4
+"November 28, 2016",California,San Pedro,0,4
+"November 27, 2016",Louisiana,New Orleans,1,9
+"November 27, 2016",Missouri,Kansas City,0,7
+"November 26, 2016",Illinois,Chicago,1,5
+"November 25, 2016",Louisiana,New Orleans,0,4
+"November 24, 2016",Kentucky,Louisville,2,4
+"November 24, 2016",New York,Albany,1,3
+"November 23, 2016",Mississippi,Olive Branch,0,4
+"November 22, 2016",Florida,Clewiston,1,4
+"November 18, 2016",Illinois,Chicago,0,4
+"November 17, 2016",Tennessee,Dyersburg,1,7
+"November 13, 2016",Florida,Jacksonville,3,2
+"November 13, 2016",Texas,San Antonio,0,4
+"November 13, 2016",California,San Diego,3,2
+"November 13, 2016",Florida,Orlando,0,4
+"November 12, 2016",California,Sacramento,1,5
+"November 12, 2016",Missouri,Kansas City,1,3
+"November 12, 2016",Connecticut,Bridgeport,0,5
+"November 11, 2016",Texas,Houston,0,4
+"November 10, 2016",Texas,Houston,1,3
+"November 9, 2016",Washington,Seattle,0,5
+"November 9, 2016",Illinois,Chicago,1,3
+"November 9, 2016",Tennessee,Memphis,0,4
+"November 5, 2016",Florida,Fort Lauderdale (Lauderhill),1,3
+"November 5, 2016",Texas,San Antonio,0,4
+"November 5, 2016",South Carolina,Myrtle Beach,0,5
+"November 5, 2016",California,Oakland,0,8
+"November 5, 2016",Illinois,Chicago,0,5
+"November 4, 2016",Pennsylvania,Philadelphia,0,4
+"November 3, 2016",Illinois,Chicago,2,2
+"November 3, 2016",New Jersey,Orange,2,2
+"November 2, 2016",Arkansas,Little Rock,1,4
+"November 1, 2016",Tennessee,Memphis,1,5
+"October 31, 2016",Louisiana,Shreveport,0,4
+"October 30, 2016",Ohio,Toledo,0,4
+"October 30, 2016",New York,New York (Manhattan),0,4
+"October 30, 2016",New York,Newburgh,2,5
+"October 30, 2016",Maryland,Capitol Heights,3,3
+"October 30, 2016",Texas,San Antonio,0,5
+"October 29, 2016",Ohio,Dayton,1,3
+"October 29, 2016",California,Los Angeles,0,5
+"October 29, 2016",California,Riverside,0,4
+"October 28, 2016",Mississippi,Jackson,0,6
+"October 28, 2016",Florida,Miami Gardens,0,4
+"October 27, 2016",Georgia,Jackson,4,0
+"October 25, 2016",Ohio,Dayton,1,3
+"October 25, 2016",Virginia,Roanoke,2,3
+"October 23, 2016",Oklahoma,Wellston,1,5
+"October 22, 2016",California,Oakland,0,7
+"October 18, 2016",California,San Francisco,0,4
+"October 17, 2016",Illinois,Chicago (Englewood),1,4
+"October 15, 2016",Alabama,Mobile,0,5
+"October 15, 2016",Illinois,Rockford,1,5
+"October 15, 2016",California,Los Angeles,4,11
+"October 14, 2016",Illinois,Chicago,1,6
+"October 13, 2016",Illinois,Chicago,0,4
+"October 9, 2016",Michigan,Grand Rapids,1,8
+"October 9, 2016",California,Sacramento,1,3
+"October 8, 2016",New York,Brooklyn,0,4
+"October 4, 2016",Louisiana,New Orleans,3,2
+"October 3, 2016",Minnesota,Minneapolis,0,4
+"October 2, 2016",Texas,San Antonio,1,4
+"October 1, 2016",Illinois,Pembroke Township,4,0
+"October 1, 2016",California,Fresno,0,4
+"September 29, 2016",California,San Francisco,1,3
+"September 26, 2016",North Carolina,Winston Salem (Winston-salem),0,4
+"September 26, 2016",Texas,Humble,0,4
+"September 26, 2016",Texas,Houston,1,6
+"September 25, 2016",Illinois,Champaign,1,3
+"September 24, 2016",Maryland,Baltimore,0,8
+"September 23, 2016",Washington,Burlington,5,0
+"September 18, 2016",Pennsylvania,Philadelphia,0,4
+"September 18, 2016",Pennsylvania,Pittsburgh,0,4
+"September 18, 2016",Virginia,Lynchburg,1,3
+"September 17, 2016",Florida,Miami,0,6
+"September 17, 2016",Florida,Orlando,1,6
+"September 17, 2016",Indiana,Indianapolis,2,2
+"September 17, 2016",District of Columbia,Washington,2,7
+"September 16, 2016",California,Los Angeles (Hollywood),2,2
+"September 16, 2016",Pennsylvania,Philadelphia,2,5
+"September 14, 2016",Texas,Humble,1,3
+"September 13, 2016",Indiana,Fort Wayne,3,2
+"September 11, 2016",Indiana,Fort Wayne,3,1
+"September 11, 2016",Louisiana,New Orleans,1,5
+"September 11, 2016",Missouri,Kansas City,0,6
+"September 11, 2016",Michigan,Saginaw,0,5
+"September 11, 2016",North Carolina,New Bern,0,5
+"September 11, 2016",New Jersey,Jersey City,1,3
+"September 10, 2016",Florida,Miami,1,3
+"September 8, 2016",Texas,Del Valle,4,0
+"September 8, 2016",Arkansas,Hot Springs National Park (Hot Springs),1,4
+"September 5, 2016",Illinois,Chicago,2,3
+"September 5, 2016",Pennsylvania,Reading,0,4
+"September 4, 2016",Virginia,Roanoke,1,10
+"September 3, 2016",North Carolina,Wilmington,1,3
+"September 3, 2016",Illinois,Chicago,0,4
+"August 30, 2016",Georgia,Atlanta,0,4
+"August 30, 2016",Illinois,Chicago (Englewood),0,4
+"August 29, 2016",New Jersey,Egg Harbor City,1,5
+"August 28, 2016",Texas,Lubbock,0,6
+"August 28, 2016",New York,Bronx,0,4
+"August 28, 2016",Missouri,Saint Louis,2,2
+"August 28, 2016",Alabama,Dadeville,0,5
+"August 27, 2016",Alabama,Bessemer (Brighton),1,6
+"August 27, 2016",Florida,Miami,2,4
+"August 25, 2016",New Jersey,Bridgeton,0,5
+"August 21, 2016",Massachusetts,Boston,0,4
+"August 21, 2016",Connecticut,Bridgeport,0,13
+"August 20, 2016",Connecticut,Hamden,0,4
+"August 20, 2016",Washington,Tacoma,0,5
+"August 20, 2016",Alabama,Citronelle,5,0
+"August 18, 2016",Connecticut,Waterbury,0,4
+"August 17, 2016",California,Oakland,0,4
+"August 14, 2016",Virginia,Norfolk,0,4
+"August 14, 2016",Minnesota,Minneapolis,0,5
+"August 13, 2016",California,Los Angeles,0,4
+"August 13, 2016",Wisconsin,Milwaukee,2,2
+"August 13, 2016",New York,Richmond Hill,0,4
+"August 13, 2016",Missouri,Joplin,0,4
+"August 12, 2016",Florida,Jacksonville,1,3
+"August 12, 2016",Texas,Dallas,1,3
+"August 11, 2016",Pennsylvania,Philadelphia,0,4
+"August 10, 2016",Illinois,Evanston,0,4
+"August 10, 2016",California,Sacramento,1,3
+"August 8, 2016",Florida,Jacksonville,0,7
+"August 8, 2016",New Mexico,Albuquerque,2,2
+"August 7, 2016",California,Los Angeles,1,3
+"August 7, 2016",Mississippi,Vicksburg,1,3
+"August 7, 2016",Colorado,Arvada,2,2
+"August 7, 2016",Illinois,Chicago,0,4
+"August 6, 2016",Pennsylvania,Reading (Sinking Spring),5,0
+"August 5, 2016",Michigan,Pontiac,1,3
+"August 5, 2016",California,Perris,2,2
+"August 4, 2016",Tennessee,Memphis,0,4
+"August 3, 2016",Georgia,Decatur,1,3
+"August 2, 2016",Florida,Hollywood (West Park),0,4
+"August 1, 2016",Indiana,Evansville,0,4
+"July 31, 2016",Florida,Miami,3,1
+"July 31, 2016",Texas,Austin,1,4
+"July 30, 2016",Missouri,Saint Louis,0,5
+"July 30, 2016",Washington,Mukilteo,3,1
+"July 30, 2016",Georgia,Townsend (Eulonia),0,5
+"July 29, 2016",Georgia,Athens,0,7
+"July 28, 2016",New York,Elmira,0,5
+"July 28, 2016",Maryland,Baltimore,0,4
+"July 28, 2016",Illinois,Chicago,2,2
+"July 25, 2016",Florida,Fort Myers,2,19
+"July 24, 2016",Ohio,Hamilton,1,7
+"July 23, 2016",South Carolina,North Charleston,0,4
+"July 23, 2016",Ohio,Cincinnati,2,2
+"July 23, 2016",New York,Brooklyn,0,4
+"July 23, 2016",Texas,Bastrop,4,1
+"July 22, 2016",Illinois,Kankakee,0,5
+"July 21, 2016",Illinois,Chicago,0,5
+"July 20, 2016",California,Fresno,0,4
+"July 19, 2016",Arkansas,West Memphis,0,4
+"July 17, 2016",Texas,Houston,1,3
+"July 17, 2016",Michigan,Detroit,0,4
+"July 17, 2016",Louisiana,Baton Rouge,4,3
+"July 16, 2016",Texas,Dallas,0,5
+"July 16, 2016",Ohio,Cleveland,0,5
+"July 16, 2016",California,San Bernardino,0,4
+"July 16, 2016",California,Bakersfield,1,14
+"July 16, 2016",Tennessee,Clarksville,0,6
+"July 15, 2016",Washington,Woodland,3,1
+"July 14, 2016",Texas,Crosby,3,1
+"July 14, 2016",California,Oakland,0,4
+"July 14, 2016",Ohio,Akron,1,3
+"July 13, 2016",Georgia,Warner Robins,0,5
+"July 13, 2016",Missouri,Saint Louis,2,2
+"July 11, 2016",Maryland,Baltimore,0,5
+"July 11, 2016",Michigan,Jackson,0,4
+"July 11, 2016",District of Columbia,Washington,0,4
+"July 11, 2016",Michigan,Saint Joseph,3,2
+"July 7, 2016",Louisiana,Baton Rouge,0,4
+"July 7, 2016",Texas,Dallas,5,9
+"July 7, 2016",Tennessee,Bristol,1,4
+"July 5, 2016",California,Los Angeles,0,4
+"July 4, 2016",New York,Brooklyn,0,7
+"July 4, 2016",Texas,Houston,3,2
+"July 4, 2016",Pennsylvania,Pittsburgh,0,4
+"July 4, 2016",Illinois,Chicago (Englewood),0,4
+"July 4, 2016",Ohio,Cleveland,0,4
+"July 4, 2016",Arizona,Phoenix,2,6
+"July 3, 2016",Louisiana,Monroe,2,3
+"July 3, 2016",Tennessee,Chattanooga,0,4
+"June 30, 2016",Illinois,Chicago,1,4
+"June 29, 2016",Nevada,Las Vegas,5,0
+"June 28, 2016",California,Los Angeles,1,3
+"June 28, 2016",Illinois,Chicago,0,4
+"June 27, 2016",Oregon,Woodburn,3,1
+"June 26, 2016",South Carolina,Bennettsville,0,4
+"June 26, 2016",North Carolina,Charlotte,0,5
+"June 26, 2016",Georgia,Atlanta,1,4
+"June 26, 2016",Texas,Houston,1,3
+"June 26, 2016",Texas,Corpus Christi,0,4
+"June 25, 2016",Texas,Fort Worth,2,5
+"June 25, 2016",Virginia,Norfolk,0,4
+"June 25, 2016",Illinois,Chicago,0,4
+"June 24, 2016",Kansas,Kansas City,0,4
+"June 24, 2016",Connecticut,Hartford,0,5
+"June 24, 2016",Maryland,District Heights,3,2
+"June 22, 2016",Washington,Olympia,3,1
+"June 22, 2016",Georgia,Dekalb (county),1,4
+"June 22, 2016",Illinois,Chicago,0,4
+"June 21, 2016",New Jersey,Willingboro,0,4
+"June 21, 2016",Kentucky,Louisville,2,2
+"June 19, 2016",Virginia,Roanoke,0,4
+"June 18, 2016",Virginia,Exmore,1,3
+"June 18, 2016",Georgia,Waycross,2,2
+"June 18, 2016",Illinois,Chicago,0,4
+"June 14, 2016",Delaware,Wilmington,0,4
+"June 14, 2016",California,Oakland,1,3
+"June 13, 2016",California,Fresno,0,4
+"June 13, 2016",New York,Brooklyn,0,5
+"June 13, 2016",Illinois,Chicago,0,5
+"June 12, 2016",Florida,Orlando,50,53
+"June 11, 2016",New Mexico,Roswell,5,0
+"June 11, 2016",Minnesota,Webster,0,4
+"June 11, 2016",North Carolina,Charlotte,1,3
+"June 11, 2016",California,Stockton,1,3
+"June 11, 2016",California,Panorama City,3,2
+"June 9, 2016",Florida,Fort Walton Beach,0,4
+"June 8, 2016",District of Columbia,Washington,0,4
+"June 8, 2016",Massachusetts,Boston,1,3
+"June 6, 2016",California,Visalia,0,4
+"June 5, 2016",Minnesota,Minneapolis,0,4
+"June 5, 2016",Florida,Cape Coral,3,3
+"June 5, 2016",Arizona,Phoenix,2,4
+"June 5, 2016",New York,Brooklyn,0,4
+"June 4, 2016",Colorado,Denver,3,1
+"May 31, 2016",Illinois,Chicago,0,4
+"May 31, 2016",Indiana,Fort Wayne,0,4
+"May 30, 2016",Maryland,Baltimore,0,5
+"May 30, 2016",California,Sacramento,0,5
+"May 29, 2016",Nevada,Las Vegas,0,4
+"May 29, 2016",New Jersey,Trenton,0,6
+"May 29, 2016",Indiana,Indianapolis,0,4
+"May 29, 2016",Texas,Houston,2,6
+"May 23, 2016",New Jersey,Newark,0,5
+"May 22, 2016",Louisiana,New Orleans,0,4
+"May 22, 2016",California,Stockton,1,3
+"May 22, 2016",Tennessee,Nashville,0,4
+"May 21, 2016",Georgia,Jackson,1,3
+"May 18, 2016",Indiana,Indianapolis,0,4
+"May 17, 2016",South Carolina,Ravenel,3,1
+"May 15, 2016",Indiana,Evansville,0,4
+"May 15, 2016",Georgia,Moultrie,5,0
+"May 14, 2016",Georgia,Atlanta,0,5
+"May 14, 2016",West Virginia,Charleston,1,3
+"May 11, 2016",Alabama,Birmingham,1,4
+"May 11, 2016",Illinois,Chicago,0,5
+"May 8, 2016",Texas,Austin,1,3
+"May 6, 2016",Michigan,Detroit,1,4
+"May 6, 2016",Alabama,Montgomery,1,3
+"May 6, 2016",Maryland,Bethesda,3,3
+"May 5, 2016",Louisiana,Shreveport,2,6
+"May 5, 2016",Florida,Miami,1,3
+"May 4, 2016",Minnesota,Minneapolis,1,7
+"May 1, 2016",Tennessee,Murfreesboro,0,5
+"April 29, 2016",Missouri,Saint Louis (Ferguson),0,4
+"April 29, 2016",California,Oakland,0,5
+"April 27, 2016",Louisiana,Baton Rouge,2,2
+"April 27, 2016",Mississippi,Kilmichael,3,1
+"April 26, 2016",Maryland,District Heights (Forestville),1,4
+"April 25, 2016",Tennessee,Nashville,0,4
+"April 25, 2016",Florida,Miami,0,5
+"April 24, 2016",Virginia,Halifax,0,5
+"April 24, 2016",Illinois,Chicago (Englewood),2,3
+"April 24, 2016",Colorado,Denver,0,4
+"April 23, 2016",Nevada,Las Vegas,1,3
+"April 23, 2016",Alabama,Auburn,3,1
+"April 23, 2016",New York,New York (Manhattan),0,4
+"April 23, 2016",Kansas,Topeka,1,4
+"April 22, 2016",Ohio,Piketon,8,0
+"April 22, 2016",Georgia,Appling,6,0
+"April 21, 2016",Maryland,Baltimore,0,4
+"April 19, 2016",Alabama,Blountsville,1,4
+"April 19, 2016",Illinois,Chicago,1,3
+"April 19, 2016",Illinois,Chicago,1,4
+"April 18, 2016",California,Long Beach,1,3
+"April 17, 2016",Pennsylvania,Philadelphia,3,1
+"April 17, 2016",South Carolina,Pelzer,1,3
+"April 17, 2016",Texas,Edinburg,1,6
+"April 16, 2016",Michigan,Detroit,1,4
+"April 16, 2016",Florida,Orlando,2,4
+"April 16, 2016",Alabama,Enterprise,0,4
+"April 10, 2016",Wisconsin,Milwaukee,1,3
+"April 10, 2016",California,Los Angeles,0,4
+"April 9, 2016",Tennessee,Memphis,0,4
+"April 9, 2016",Alabama,Anniston,0,4
+"April 9, 2016",New Mexico,Albuquerque,0,4
+"April 7, 2016",Illinois,Chicago,0,4
+"March 31, 2016",Illinois,Chicago (Englewood),0,4
+"March 25, 2016",Illinois,Chicago,0,4
+"March 25, 2016",Colorado,Denver,0,4
+"March 21, 2016",Illinois,Chicago,0,4
+"March 19, 2016",Florida,Plantation,1,4
+"March 19, 2016",Alabama,Wetumpka,2,2
+"March 15, 2016",Georgia,Atlanta,0,5
+"March 13, 2016",Florida,Fort Myers,0,4
+"March 12, 2016",Oregon,Portland,0,4
+"March 12, 2016",California,Oakland,0,4
+"March 11, 2016",Michigan,Detroit,2,2
+"March 11, 2016",New Jersey,Trenton,0,5
+"March 9, 2016",Pennsylvania,Pittsburgh,5,3
+"March 8, 2016",Texas,San Antonio,2,3
+"March 7, 2016",Louisiana,Lafayette,0,4
+"March 7, 2016",Kansas,Kansas City,5,0
+"March 6, 2016",Massachusetts,Chelsea,1,6
+"March 6, 2016",Georgia,Roswell,0,4
+"March 6, 2016",California,Compton,1,8
+"March 5, 2016",Kansas,Wichita,0,4
+"March 4, 2016",Ohio,Columbus,1,3
+"February 28, 2016",Michigan,Detroit,0,5
+"February 28, 2016",California,Riverside (Jurupa Valley),1,3
+"February 27, 2016",Virginia,Woodbridge (Lake Ridge),2,2
+"February 26, 2016",Washington,Belfair,5,0
+"February 25, 2016",Kansas,Hesston,4,14
+"February 23, 2016",Arizona,Glendale,5,0
+"February 23, 2016",Florida,Daytona Beach,0,4
+"February 21, 2016",Texas,Houston,0,5
+"February 21, 2016",Missouri,Hazelwood,1,3
+"February 20, 2016",Florida,Tampa,1,3
+"February 20, 2016",Michigan,Kalamazoo,6,2
+"February 20, 2016",Alabama,Bessemer,1,3
+"February 20, 2016",Florida,Orlando,0,4
+"February 20, 2016",Mississippi,Iuka,2,3
+"February 19, 2016",Missouri,Edgerton,4,0
+"February 19, 2016",California,Vallejo,1,3
+"February 14, 2016",Texas,Houston,1,3
+"February 14, 2016",Alabama,Eutaw (Union),0,5
+"February 13, 2016",Louisiana,Marrero,0,4
+"February 7, 2016",Mississippi,Pass Christian,2,4
+"February 7, 2016",Florida,Orlando,2,10
+"February 7, 2016",New York,Rochester,1,7
+"February 7, 2016",Illinois,Chicago (Englewood),0,4
+"February 6, 2016",California,Los Angeles,1,3
+"February 6, 2016",Florida,Apopka,0,4
+"February 6, 2016",Florida,Tampa,2,6
+"February 3, 2016",District of Columbia,Washington,0,4
+"January 30, 2016",Arizona,Glendale,3,5
+"January 27, 2016",Virginia,Chesapeake,6,0
+"January 26, 2016",Washington,Seattle,2,3
+"January 25, 2016",California,Perris,1,4
+"January 23, 2016",California,Los Angeles,2,2
+"January 17, 2016",Virginia,Ware Neck (Gloucester Courthouse),1,3
+"January 11, 2016",Delaware,Wilmington,1,4
+"January 8, 2016",District of Columbia,Washington,0,4
+"January 8, 2016",Illinois,Chicago,1,4
+"January 7, 2016",Tennessee,Memphis,1,3
+"January 6, 2016",Florida,Lakeland,3,1
+"December 31, 2017",Colorado,Littleton (Highlands Ranch),2,6
+"December 31, 2017",Illinois,Chicago,0,4
+"December 31, 2017",New Jersey,Long Branch,4,0
+"December 27, 2017",Nevada,Las Vegas,2,2
+"December 26, 2017",Florida,Miami,0,5
+"December 24, 2017",Mississippi,Vicksburg,0,5
+"December 24, 2017",Alabama,Troy,1,4
+"December 23, 2017",Louisiana,Eunice,1,3
+"December 23, 2017",Alabama,Birmingham,0,4
+"December 21, 2017",Pennsylvania,Philadelphia,1,3
+"December 21, 2017",Louisiana,Lafayette,0,4
+"December 16, 2017",Mississippi,Mc Cool (Mccool),0,4
+"December 15, 2017",California,Pacoima,0,5
+"December 13, 2017",Ohio,Columbus,1,3
+"December 12, 2017",Kentucky,Louisville,0,4
+"December 12, 2017",Texas,Garland,0,4
+"December 9, 2017",Massachusetts,Boston,0,4
+"December 6, 2017",Illinois,Chicago,0,4
+"December 4, 2017",Pennsylvania,Pittsburgh,2,2
+"December 3, 2017",Tennessee,Memphis,1,3
+"December 2, 2017",Michigan,Detroit,0,4
+"November 30, 2017",Michigan,Detroit,1,4
+"November 24, 2017",Mississippi,Brookhaven,1,6
+"November 24, 2017",Ohio,Cleveland,1,5
+"November 18, 2017",Minnesota,Minneapolis,0,4
+"November 17, 2017",Louisiana,New Iberia,0,4
+"November 16, 2017",Georgia,Columbus,0,7
+"November 14, 2017",California,Corning,6,12
+"November 14, 2017",California,Richmond,2,2
+"November 12, 2017",Indiana,Gary,0,7
+"November 12, 2017",California,Fresno,0,5
+"November 12, 2017",Georgia,Atlanta,2,2
+"November 11, 2017",Texas,Dallas,1,3
+"November 11, 2017",Louisiana,New Orleans,1,5
+"November 11, 2017",North Carolina,Fayetteville,1,5
+"November 10, 2017",Ohio,Dayton (Trotwood),0,4
+"November 9, 2017",Pennsylvania,Philadelphia,0,4
+"November 5, 2017",Texas,Sutherland Springs,27,20
+"November 4, 2017",Texas,Austin,0,4
+"November 4, 2017",Ohio,Youngstown,0,4
+"November 4, 2017",California,Santa Monica,1,3
+"November 3, 2017",Minnesota,Minneapolis,0,4
+"November 3, 2017",California,Gardena,0,4
+"November 3, 2017",New York,Buffalo,0,4
+"November 3, 2017",Louisiana,Lacombe,1,4
+"October 29, 2017",Texas,Austin,1,3
+"October 28, 2017",Ohio,Toledo,0,4
+"October 28, 2017",Virginia,Petersburg,1,3
+"October 27, 2017",Kentucky,Louisville,0,6
+"October 27, 2017",California,San Francisco,0,4
+"October 23, 2017",California,Clearlake Oaks,2,3
+"October 22, 2017",Connecticut,Hartford,0,4
+"October 22, 2017",Alabama,Lanett,2,7
+"October 21, 2017",Florida,Jacksonville,0,4
+"October 21, 2017",Tennessee,Nashville,0,4
+"October 21, 2017",Pennsylvania,Chester,0,4
+"October 21, 2017",Florida,Tampa,0,4
+"October 18, 2017",Maryland,Edgewood,3,3
+"October 17, 2017",New York,Brooklyn,0,4
+"October 16, 2017",Mississippi,Meridian,1,3
+"October 15, 2017",Texas,Houston,2,2
+"October 15, 2017",Arizona,Phoenix,1,3
+"October 12, 2017",California,Aliso Viejo,2,2
+"October 11, 2017",Ohio,Pedro,4,0
+"October 10, 2017",California,San Francisco,0,4
+"October 9, 2017",Texas,Houston,0,5
+"October 7, 2017",Arizona,Phoenix,0,4
+"October 6, 2017",Illinois,Chicago,0,5
+"October 5, 2017",Arizona,Casa Grande,4,0
+"October 3, 2017",Florida,Miami,0,4
+"October 1, 2017",Kansas,Lawrence,3,2
+"October 1, 2017",Nevada,Las Vegas,59,441
+"September 30, 2017",Tennessee,Memphis,1,3
+"September 28, 2017",Louisiana,New Orleans,1,3
+"September 26, 2017",Pennsylvania,Philadelphia,1,3
+"September 26, 2017",Tennessee,Memphis,0,4
+"September 26, 2017",Maryland,Baltimore,2,2
+"September 24, 2017",Maryland,Baltimore,0,4
+"September 24, 2017",Tennessee,Antioch,1,8
+"September 24, 2017",New York,Syracuse,0,4
+"September 24, 2017",New Jersey,Mays Landing,1,3
+"September 23, 2017",California,Bakersfield,1,4
+"September 23, 2017",Illinois,Danville,0,5
+"September 23, 2017",Connecticut,Hartford,2,2
+"September 20, 2017",Indiana,Gary,0,5
+"September 17, 2017",Michigan,Detroit,1,3
+"September 17, 2017",Virginia,Petersburg,1,4
+"September 16, 2017",South Carolina,Columbia,0,8
+"September 13, 2017",Tennessee,Memphis,1,5
+"September 13, 2017",Washington,Rockford,1,3
+"September 13, 2017",Pennsylvania,York,0,4
+"September 13, 2017",Pennsylvania,Philadelphia,0,4
+"September 10, 2017",Louisiana,New Orleans,1,3
+"September 10, 2017",Texas,Plano,9,1
+"September 9, 2017",Alabama,Selma,0,4
+"September 6, 2017",Illinois,Chicago,0,4
+"September 4, 2017",Illinois,Bellwood,0,4
+"September 3, 2017",California,Inglewood,2,3
+"September 2, 2017",Kentucky,Louisville,0,4
+"September 2, 2017",Illinois,Chicago,1,3
+"August 28, 2017",New Mexico,Clovis,2,4
+"August 27, 2017",California,Sacramento,1,4
+"August 27, 2017",Indiana,Evansville,1,3
+"August 25, 2017",Florida,Gainesville,0,4
+"August 24, 2017",Missouri,Saint Louis,4,0
+"August 22, 2017",Illinois,Chicago,0,4
+"August 21, 2017",New Jersey,Newark,0,4
+"August 21, 2017",North Carolina,Whitakers,4,0
+"August 21, 2017",New Jersey,Newark,1,3
+"August 21, 2017",Maryland,Baltimore,1,3
+"August 21, 2017",Tennessee,Memphis,0,4
+"August 20, 2017",New York,Brooklyn,0,4
+"August 20, 2017",Illinois,Chicago,2,5
+"August 19, 2017",Ohio,Cleveland,1,4
+"August 16, 2017",New York,Wyandanch,0,4
+"August 14, 2017",California,North Hollywood,2,2
+"August 13, 2017",Pennsylvania,Philadelphia,0,5
+"August 13, 2017",California,Sacramento,0,4
+"August 13, 2017",Virginia,Suffolk,0,4
+"August 12, 2017",Missouri,Saint Louis,1,3
+"August 8, 2017",Illinois,Chicago,1,6
+"August 6, 2017",New York,Bronx,0,6
+"August 6, 2017",New York,Bronx,0,4
+"August 6, 2017",California,Oakland,0,7
+"August 5, 2017",New Jersey,Lakewood,0,4
+"August 5, 2017",South Carolina,Allendale,1,3
+"August 5, 2017",Florida,Tallahassee,1,3
+"August 4, 2017",Montana,Lodge Grass,3,2
+"August 3, 2017",District of Columbia,Washington,1,3
+"August 2, 2017",Maryland,Baltimore,0,4
+"August 1, 2017",Illinois,Chicago,0,4
+"August 1, 2017",Washington,Toppenish,0,6
+"August 1, 2017",California,Fresno,0,7
+"July 31, 2017",Illinois,Decatur,0,4
+"July 30, 2017",Virginia,Norfolk,1,5
+"July 30, 2017",Texas,El Paso,1,3
+"July 29, 2017",New York,Buffalo,1,4
+"July 29, 2017",North Carolina,Salisbury,2,3
+"July 28, 2017",Delaware,Wilmington,0,4
+"July 27, 2017",Illinois,Chicago,1,4
+"July 26, 2017",North Carolina,High Point,1,6
+"July 25, 2017",Florida,Jacksonville,1,3
+"July 23, 2017",Illinois,Chicago,1,3
+"July 23, 2017",Louisiana,Baton Rouge,0,4
+"July 22, 2017",Ohio,Cincinnati,0,5
+"July 19, 2017",Virginia,Richmond,0,5
+"July 19, 2017",California,Los Angeles,1,3
+"July 18, 2017",Wisconsin,Milwaukee,0,4
+"July 18, 2017",New Jersey,Trenton,1,3
+"July 18, 2017",Arizona,El Mirage,0,4
+"July 15, 2017",Pennsylvania,Philadelphia,1,3
+"July 15, 2017",Illinois,Chicago,0,4
+"July 9, 2017",Virginia,Lawrenceville,0,7
+"July 8, 2017",Illinois,Alton,0,4
+"July 8, 2017",Ohio,Cincinnati,1,8
+"July 6, 2017",Mississippi,Meridian,0,4
+"July 5, 2017",Georgia,Savannah,0,4
+"July 5, 2017",Illinois,Chicago (Roseland),2,2
+"July 5, 2017",Maine,Madison,4,1
+"July 4, 2017",Florida,Orlando (Pine Castle),0,4
+"July 4, 2017",Virginia,Hampton,1,4
+"July 4, 2017",North Carolina,Raleigh,1,3
+"July 3, 2017",Alabama,Prattville,3,1
+"July 3, 2017",Michigan,Pontiac,1,3
+"July 2, 2017",New Jersey,Jersey City,0,4
+"July 2, 2017",South Carolina,Greenwood,0,4
+"July 1, 2017",Illinois,Momence,0,4
+"July 1, 2017",New Jersey,Newark,2,2
+"July 1, 2017",California,Oakland,0,4
+"July 1, 2017",Arkansas,Little Rock,0,25
+"June 30, 2017",New York,Bronx,2,6
+"June 27, 2017",Illinois,Chicago,0,5
+"June 25, 2017",District of Columbia,Washington,0,4
+"June 25, 2017",Missouri,Saint Louis,1,3
+"June 24, 2017",Florida,Fort Lauderdale,1,4
+"June 24, 2017",New York,New York (Manhattan),0,5
+"June 24, 2017",New Jersey,Willingboro,0,4
+"June 22, 2017",Georgia,Atlanta,1,6
+"June 18, 2017",Missouri,Saint Louis,3,2
+"June 18, 2017",District of Columbia,Washington,0,4
+"June 18, 2017",Illinois,Chicago,0,4
+"June 18, 2017",South Carolina,Myrtle Beach,0,7
+"June 17, 2017",Illinois,Chicago,0,4
+"June 17, 2017",Ohio,Columbus,1,4
+"June 15, 2017",Virginia,Richmond,1,3
+"June 15, 2017",New Mexico,La Madera,5,0
+"June 14, 2017",Virginia,Alexandria,1,5
+"June 14, 2017",Ohio,Canton,0,4
+"June 14, 2017",California,San Francisco,4,2
+"June 13, 2017",Maryland,Baltimore,0,4
+"June 13, 2017",Maryland,Baltimore,2,2
+"June 13, 2017",Missouri,Saint Louis (University City),0,4
+"June 11, 2017",Illinois,Chicago,0,9
+"June 11, 2017",Tennessee,Chattanooga,0,4
+"June 11, 2017",Texas,Houston,0,4
+"June 10, 2017",Tennessee,Memphis,0,4
+"June 9, 2017",Texas,Fort Worth,2,5
+"June 8, 2017",Louisiana,New Orleans,0,6
+"June 6, 2017",Utah,Sandy,3,2
+"June 5, 2017",Florida,Orlando,6,0
+"June 3, 2017",Missouri,Saint Louis,2,2
+"June 3, 2017",Louisiana,New Orleans,3,2
+"June 2, 2017",California,Los Angeles,1,3
+"June 2, 2017",Texas,Laredo,2,3
+"June 1, 2017",Missouri,Saint Louis,3,1
+"May 30, 2017",Ohio,Middletown,1,3
+"May 29, 2017",Kentucky,Louisville,1,3
+"May 28, 2017",Alabama,Phenix City,0,12
+"May 28, 2017",New Jersey,Paterson,1,5
+"May 28, 2017",Mississippi,Moss Point,0,5
+"May 27, 2017",New York,New York (Manhattan),0,4
+"May 27, 2017",District of Columbia,Washington,1,7
+"May 27, 2017",Mississippi,Bogue Chitto,8,1
+"May 26, 2017",Florida,Miami,0,4
+"May 21, 2017",Iowa,Des Moines,1,3
+"May 21, 2017",Arizona,Mesa,0,4
+"May 20, 2017",Pennsylvania,Philadelphia,0,10
+"May 16, 2017",South Carolina,Ruffin,3,1
+"May 14, 2017",Arkansas,Jonesboro,1,6
+"May 14, 2017",Illinois,Dolton,0,5
+"May 14, 2017",Florida,Avon Park,0,5
+"May 14, 2017",Texas,Fort Worth,0,4
+"May 10, 2017",New Jersey,Trenton,1,3
+"May 9, 2017",Kansas,Kansas City,3,1
+"May 7, 2017",Illinois,Chicago,2,8
+"May 4, 2017",Michigan,Flint,1,3
+"May 2, 2017",Florida,Jacksonville,1,3
+"May 1, 2017",Texas,Dallas,2,3
+"April 30, 2017",California,San Diego,2,6
+"April 30, 2017",Kansas,Topeka,4,1
+"April 30, 2017",Florida,Jacksonville,0,5
+"April 30, 2017",South Carolina,Loris,1,5
+"April 29, 2017",California,Los Angeles (Boyle Heights),1,3
+"April 29, 2017",California,Sacramento,0,5
+"April 29, 2017",California,Whittier,1,5
+"April 29, 2017",Maryland,Germantown,1,3
+"April 29, 2017",California,Compton,0,4
+"April 29, 2017",Virginia,Virginia Beach,0,4
+"April 28, 2017",Pennsylvania,Chester,0,4
+"April 27, 2017",New Jersey,Newark,1,3
+"April 26, 2017",Florida,Miami,0,4
+"April 21, 2017",Florida,Palm Bay,2,2
+"April 20, 2017",Kentucky,Louisville,0,4
+"April 16, 2017",California,Vallejo,0,4
+"April 16, 2017",North Carolina,Elizabeth City,0,4
+"April 16, 2017",Ohio,Columbus,0,9
+"April 15, 2017",Illinois,Rock Falls,0,4
+"April 15, 2017",Pennsylvania,Philadelphia,0,4
+"April 15, 2017",Indiana,Indianapolis,0,4
+"April 15, 2017",Alabama,Birmingham,0,6
+"April 15, 2017",Illinois,Harvey,0,4
+"April 15, 2017",California,Banning,0,4
+"April 13, 2017",Georgia,Atlanta,1,3
+"April 9, 2017",Texas,San Antonio,1,3
+"April 9, 2017",Indiana,Fort Wayne,1,3
+"April 7, 2017",North Carolina,Hickory,3,1
+"April 7, 2017",Texas,Houston,5,0
+"April 7, 2017",Minnesota,Saint Paul,4,1
+"April 7, 2017",Illinois,Chicago,1,5
+"April 6, 2017",Louisiana,Lake Charles,1,3
+"April 3, 2017",Pennsylvania,Philadelphia,3,1
+"April 3, 2017",Texas,Lubbock,0,7
+"April 2, 2017",Illinois,Chicago,2,4
+"April 2, 2017",Iowa,Des Moines,0,5
+"April 1, 2017",California,Pittsburg,0,5
+"April 1, 2017",Florida,Tampa,1,4
+"April 1, 2017",Oklahoma,Oklahoma City,2,3
+"March 30, 2017",Illinois,Chicago,4,0
+"March 27, 2017",Florida,Sanford,2,4
+"March 26, 2017",Ohio,Cleveland,2,2
+"March 26, 2017",Texas,Houston,2,4
+"March 26, 2017",Ohio,Cincinnati,2,15
+"March 25, 2017",Tennessee,Knoxville,1,4
+"March 25, 2017",Michigan,Detroit,1,3
+"March 25, 2017",Ohio,Cleveland,2,2
+"March 24, 2017",California,Fresno,1,4
+"March 24, 2017",Missouri,Saint Louis,1,6
+"March 22, 2017",Wisconsin,Rothschild,5,0
+"March 19, 2017",Kentucky,Louisville,1,5
+"March 18, 2017",Michigan,Detroit,3,2
+"March 15, 2017",Louisiana,Metairie,3,1
+"March 10, 2017",Illinois,Chicago,2,2
+"March 10, 2017",Louisiana,New Orleans (Gentilly),3,1
+"March 7, 2017",Illinois,Chicago,0,4
+"March 5, 2017",Georgia,Columbus,0,4
+"March 4, 2017",Kansas,Topeka,1,4
+"March 4, 2017",California,Sacramento,0,4
+"March 3, 2017",Pennsylvania,Philadelphia,0,4
+"March 3, 2017",California,Riverside,0,5
+"February 28, 2017",Ohio,Cincinnati,0,6
+"February 27, 2017",Virginia,Newport News,0,4
+"February 26, 2017",Indiana,Gary,1,4
+"February 25, 2017",Ohio,Warren,2,3
+"February 25, 2017",Florida,Jacksonville,1,4
+"February 22, 2017",New York,Rochester,0,4
+"February 21, 2017",Ohio,Cleveland,0,4
+"February 21, 2017",Mississippi,Toomsuba,4,0
+"February 20, 2017",Ohio,Cleveland,0,5
+"February 19, 2017",Virginia,Norfolk,1,3
+"February 18, 2017",Pennsylvania,Philadelphia,0,4
+"February 18, 2017",Indiana,South Bend,1,3
+"February 15, 2017",California,Salinas,0,4
+"February 15, 2017",Illinois,Chicago,3,2
+"February 12, 2017",Missouri,Caruthersville,1,6
+"February 12, 2017",New York,Newburgh,1,3
+"February 12, 2017",Florida,Greenville,0,5
+"February 11, 2017",Illinois,Chicago,1,3
+"February 11, 2017",Tennessee,Savannah,0,4
+"February 10, 2017",Louisiana,New Orleans,1,5
+"February 9, 2017",Mississippi,Jackson,4,0
+"February 8, 2017",Ohio,Cleveland,1,4
+"February 7, 2017",South Carolina,Columbia,0,4
+"February 7, 2017",Arkansas,Little Rock,1,4
+"February 6, 2017",Mississippi,Yazoo City,4,0
+"January 31, 2017",Tennessee,Memphis,0,4
+"January 31, 2017",District of Columbia,Washington,0,4
+"January 30, 2017",Minnesota,Minneapolis (Crystal),0,4
+"January 29, 2017",Louisiana,Shreveport,1,4
+"January 27, 2017",Washington,Bremerton,4,0
+"January 27, 2017",Tennessee,Brownsville,0,10
+"January 26, 2017",Georgia,Albany,2,3
+"January 25, 2017",Illinois,Chicago,0,6
+"January 22, 2017",Texas,Manvel,3,2
+"January 22, 2017",Illinois,Chicago (Englewood),0,4
+"January 22, 2017",Georgia,Atlanta,3,1
+"January 21, 2017",Georgia,Jonesboro,0,6
+"January 21, 2017",Florida,Boynton Beach,0,5
+"January 21, 2017",Tennessee,Memphis,2,2
+"January 20, 2017",Mississippi,Como,1,4
+"January 20, 2017",California,Fresno,0,4
+"January 16, 2017",Texas,Houston,0,4
+"January 16, 2017",Florida,Miami,0,8
+"January 15, 2017",Colorado,Capulin,3,1
+"January 15, 2017",Mississippi,Magnolia,1,4
+"January 12, 2017",Missouri,Kansas City,3,2
+"January 12, 2017",California,Salinas,2,2
+"January 11, 2017",New Jersey,Newark,1,3
+"January 11, 2017",Illinois,Chicago,1,3
+"January 7, 2017",Michigan,Flint,1,3
+"January 6, 2017",California,Pasadena,2,2
+"January 6, 2017",Florida,Fort Lauderdale,5,6
+"January 4, 2017",California,Fontana,3,1
+"January 3, 2017",Texas,Allen,0,4
+"January 1, 2017",Mississippi,Winstonville,0,5
+"January 1, 2017",Texas,Dallas,1,3
+"January 1, 2017",Florida,Miami,0,7
+"December 31, 2018",Ohio,Cleveland,3,2
+"December 29, 2018",Ohio,Lima,1,3
+"December 28, 2018",Missouri,Saint Charles,4,1
+"December 24, 2018",Louisiana,Lutcher,2,2
+"December 23, 2018",Missouri,Springfield,0,7
+"December 22, 2018",Nevada,Las Vegas,0,4
+"December 18, 2018",Maryland,Baltimore,0,5
+"December 15, 2018",Florida,Miami,0,5
+"December 14, 2018",Colorado,Colorado Springs,1,3
+"December 13, 2018",Pennsylvania,Philadelphia,0,4
+"December 11, 2018",Louisiana,Natchitoches,1,3
+"December 9, 2018",North Carolina,Laurinburg,1,3
+"December 9, 2018",Wisconsin,Madison,0,4
+"December 8, 2018",California,Inglewood,0,5
+"December 8, 2018",New York,Corona (Queens),0,5
+"December 1, 2018",Florida,Miami,0,5
+"November 26, 2018",Tennessee,Powell,0,4
+"November 25, 2018",Alabama,Demopolis,2,2
+"November 25, 2018",Texas,Houston,1,3
+"November 25, 2018",California,Oakland,0,4
+"November 23, 2018",Florida,Miami,2,5
+"November 22, 2018",Indiana,Fort Wayne,3,2
+"November 21, 2018",Missouri,Saint Louis,0,4
+"November 19, 2018",Pennsylvania,Philadelphia,4,0
+"November 19, 2018",Colorado,Denver,1,4
+"November 18, 2018",California,Los Angeles (Watts),1,4
+"November 16, 2018",Arkansas,Little Rock,3,1
+"November 14, 2018",Louisiana,Baton Rouge,3,1
+"November 13, 2018",New Mexico,Gallup,4,1
+"November 13, 2018",Indiana,Indianapolis,2,2
+"November 12, 2018",North Carolina,Dunn,3,1
+"November 11, 2018",Arizona,Globe,3,1
+"November 7, 2018",California,Thousand Oaks,13,2
+"November 3, 2018",New York,Watertown,0,5
+"November 2, 2018",California,Long Beach (North Long Beach),0,4
+"November 2, 2018",Florida,Tallahassee,3,5
+"November 1, 2018",Minnesota,Minneapolis,0,5
+"November 1, 2018",Missouri,Springfield,2,2
+"October 31, 2018",Michigan,Detroit,1,3
+"October 30, 2018",California,Vallejo,2,3
+"October 30, 2018",California,Los Angeles,0,5
+"October 29, 2018",California,Riverside,0,7
+"October 28, 2018",Arkansas,El Dorado,2,2
+"October 27, 2018",Tennessee,Memphis,0,5
+"October 27, 2018",Pennsylvania,Pittsburgh,11,7
+"October 26, 2018",New Jersey,Jersey City,1,3
+"October 24, 2018",Illinois,Chicago,0,5
+"October 22, 2018",Illinois,Chicago,0,6
+"October 21, 2018",Washington,Lakewood,1,3
+"October 21, 2018",Florida,Jacksonville,1,5
+"October 16, 2018",Georgia,Atlanta,0,4
+"October 15, 2018",Tennessee,Columbia,5,0
+"October 14, 2018",Nevada,Las Vegas,3,1
+"October 14, 2018",Texas,Fort Worth,0,4
+"October 14, 2018",California,Palo Alto (East Palo Alto),2,2
+"October 13, 2018",Missouri,Saint Louis,0,4
+"October 13, 2018",Texas,Taft,4,1
+"October 12, 2018",South Carolina,Spartanburg,0,6
+"October 12, 2018",Nevada,Las Vegas,0,4
+"October 8, 2018",Alabama,Birmingham,0,4
+"October 6, 2018",Oklahoma,Tulsa,0,4
+"October 6, 2018",Texas,Houston,1,3
+"October 6, 2018",California,Oakland,0,6
+"October 4, 2018",New Mexico,Espanola (Española),1,3
+"October 4, 2018",Georgia,Swainsboro,0,4
+"October 3, 2018",Pennsylvania,Philadelphia,1,4
+"October 3, 2018",South Carolina,Florence,2,6
+"October 1, 2018",Illinois,Chicago,2,2
+"September 30, 2018",California,Compton,1,3
+"September 29, 2018",Florida,Orlando,1,4
+"September 28, 2018",Pennsylvania,Philadelphia,2,2
+"September 24, 2018",Tennessee,Memphis,3,2
+"September 23, 2018",California,Bakersfield,1,4
+"September 23, 2018",California,Baldwin Park,0,4
+"September 22, 2018",District of Columbia,Washington,0,4
+"September 22, 2018",New York,Hempstead,0,4
+"September 20, 2018",Maryland,Aberdeen,4,3
+"September 20, 2018",New York,Syracuse,0,5
+"September 19, 2018",Wisconsin,Middleton,1,4
+"September 19, 2018",Illinois,Chicago,0,4
+"September 19, 2018",Pennsylvania,Masontown,1,4
+"September 18, 2018",Louisiana,New Orleans (Algiers),0,4
+"September 18, 2018",Tennessee,Memphis,0,4
+"September 17, 2018",Maryland,Silver Spring,4,1
+"September 15, 2018",Wisconsin,Milwaukee,0,4
+"September 12, 2018",California,Bakersfield,6,0
+"September 11, 2018",Illinois,Chicago,0,4
+"September 10, 2018",Tennessee,Memphis,0,5
+"September 9, 2018",Alabama,Auburn,1,4
+"September 9, 2018",Florida,Jacksonville,0,4
+"September 9, 2018",Illinois,Elgin,1,3
+"September 7, 2018",Minnesota,Minneapolis,1,3
+"September 6, 2018",Ohio,Cincinnati,4,2
+"September 4, 2018",Georgia,Albany,0,4
+"September 2, 2018",Arkansas,Fort Smith,0,4
+"September 2, 2018",Texas,San Antonio,0,4
+"September 2, 2018",Alabama,Birmingham,0,7
+"September 2, 2018",New Jersey,Paterson,2,2
+"September 2, 2018",California,San Bernardino,0,8
+"September 2, 2018",New Jersey,Trenton,0,4
+"September 1, 2018",Ohio,Cleveland,1,7
+"September 1, 2018",Florida,Fort Lauderdale (Lauderhill),1,3
+"August 31, 2018",Colorado,Aurora,2,3
+"August 27, 2018",Arkansas,Pine Bluff,1,3
+"August 26, 2018",Florida,Jacksonville,3,9
+"August 26, 2018",Texas,Wichita Falls,1,3
+"August 25, 2018",Virginia,Richmond,0,5
+"August 25, 2018",Tennessee,Nashville,1,4
+"August 23, 2018",Pennsylvania,Philadelphia,0,4
+"August 23, 2018",Maryland,Baltimore,0,4
+"August 22, 2018",Missouri,Saint Louis,0,4
+"August 21, 2018",Tennessee,Memphis,0,4
+"August 20, 2018",Tennessee,Jackson,1,4
+"August 20, 2018",Ohio,Cleveland,1,3
+"August 19, 2018",Illinois,Chicago,0,5
+"August 18, 2018",New York,Bronx,0,4
+"August 17, 2018",Illinois,Chicago,0,7
+"August 15, 2018",South Carolina,Greenwood,0,5
+"August 14, 2018",Pennsylvania,Wyncote,0,5
+"August 12, 2018",California,Clearlake,4,1
+"August 12, 2018",Pennsylvania,Pittsburgh (East Liberty),0,4
+"August 11, 2018",Ohio,Columbus,0,4
+"August 11, 2018",California,San Francisco,1,4
+"August 11, 2018",Colorado,Thornton,1,3
+"August 10, 2018",Missouri,Saint Louis,0,4
+"August 10, 2018",Michigan,Detroit,0,4
+"August 8, 2018",New Jersey,Paterson,0,4
+"August 8, 2018",Pennsylvania,Philadelphia,2,4
+"August 5, 2018",Illinois,Chicago,1,4
+"August 5, 2018",Illinois,Chicago,0,4
+"August 5, 2018",Illinois,Chicago,0,4
+"August 5, 2018",Illinois,Chicago,0,8
+"August 5, 2018",Illinois,Chicago,1,5
+"August 4, 2018",Missouri,Kansas City,0,6
+"August 4, 2018",Nevada,Las Vegas,0,6
+"August 4, 2018",Illinois,Chicago,1,3
+"August 4, 2018",Wisconsin,Milwaukee,0,4
+"July 31, 2018",California,Gardena,2,3
+"July 30, 2018",Georgia,Savannah,0,4
+"July 30, 2018",Illinois,Chicago,0,4
+"July 29, 2018",Pennsylvania,York,0,4
+"July 29, 2018",Arizona,Phoenix,1,4
+"July 29, 2018",Michigan,Lansing,0,4
+"July 28, 2018",Louisiana,New Orleans,3,7
+"July 28, 2018",California,Los Angeles,2,4
+"July 27, 2018",Illinois,Chicago,0,4
+"July 27, 2018",Texas,Robstown,5,0
+"July 26, 2018",Ohio,Cleveland,1,6
+"July 26, 2018",California,Oakland,2,2
+"July 26, 2018",Texas,Dallas,0,6
+"July 25, 2018",Louisiana,New Orleans,0,4
+"July 23, 2018",Illinois,Chicago,0,5
+"July 21, 2018",Maryland,Baltimore,0,4
+"July 21, 2018",Illinois,Chicago,2,5
+"July 20, 2018",Washington,Sunnyside,1,4
+"July 20, 2018",New Jersey,Elizabeth,0,4
+"July 18, 2018",Oklahoma,Oklahoma City,0,4
+"July 16, 2018",Florida,Palm Beach Gardens (Riviera Beach),2,4
+"July 16, 2018",Pennsylvania,Philadelphia,1,4
+"July 16, 2018",District of Columbia,Washington,1,4
+"July 15, 2018",Colorado,Denver,0,4
+"July 15, 2018",Tennessee,Chattanooga,0,5
+"July 14, 2018",Maryland,Fort Washington,0,4
+"July 13, 2018",Virginia,Richmond,1,3
+"July 12, 2018",Tennessee,Memphis,0,5
+"July 11, 2018",Texas,Houston,0,4
+"July 11, 2018",Florida,Reddick,0,4
+"July 9, 2018",Delaware,Wilmington,5,0
+"July 9, 2018",Florida,Orlando,1,4
+"July 8, 2018",Alabama,Brandon,0,6
+"July 8, 2018",Tennessee,Memphis,0,4
+"July 7, 2018",Alabama,Wetumpka,3,2
+"July 5, 2018",New York,Brooklyn,0,4
+"July 5, 2018",New York,Albany,0,4
+"July 5, 2018",California,Los Angeles,3,3
+"July 5, 2018",Virginia,Virginia Beach,0,6
+"July 5, 2018",Ohio,Lima,1,5
+"July 4, 2018",Indiana,Gary,1,3
+"July 4, 2018",Georgia,Atlanta,1,3
+"July 3, 2018",Missouri,Saint Louis,1,5
+"July 3, 2018",District of Columbia,Washington,0,4
+"July 2, 2018",New York,Buffalo,2,2
+"July 1, 2018",Illinois,Chicago,0,6
+"June 30, 2018",Georgia,Ashburn,1,6
+"June 30, 2018",Maryland,Baltimore,0,6
+"June 30, 2018",New Jersey,Jersey City,0,5
+"June 28, 2018",Maryland,Annapolis,5,0
+"June 27, 2018",California,Oakland,1,3
+"June 27, 2018",Texas,San Antonio,0,4
+"June 27, 2018",Connecticut,Hartford,0,4
+"June 25, 2018",Illinois,Chicago,0,6
+"June 24, 2018",North Carolina,Sanford,1,6
+"June 24, 2018",Florida,Punta Gorda,0,4
+"June 24, 2018",Florida,Indiantown,0,4
+"June 24, 2018",Florida,Palm Beach Gardens (Riviera Beach),1,3
+"June 24, 2018",Indiana,Gary,1,3
+"June 24, 2018",Ohio,Sandusky,0,5
+"June 23, 2018",Kansas,Wichita,0,4
+"June 23, 2018",Illinois,Chicago,1,4
+"June 23, 2018",Tennessee,Covington,0,4
+"June 22, 2018",Pennsylvania,Homestead (Munhall),1,3
+"June 21, 2018",California,San Bernardino,1,3
+"June 21, 2018",Louisiana,Morganza,0,4
+"June 21, 2018",Illinois,Chicago,0,4
+"June 20, 2018",California,Modesto,0,5
+"June 19, 2018",Alabama,Huntsville,0,4
+"June 18, 2018",Illinois,Bloomington,3,1
+"June 18, 2018",Illinois,Chicago,2,3
+"June 17, 2018",North Carolina,Charlotte,0,4
+"June 17, 2018",New Jersey,Trenton,1,19
+"June 17, 2018",Georgia,Macon,1,3
+"June 17, 2018",Illinois,Chicago,0,4
+"June 14, 2018",Pennsylvania,Philadelphia,0,4
+"June 14, 2018",California,Union City,0,5
+"June 14, 2018",California,Tracy,1,4
+"June 14, 2018",New York,Buffalo,1,4
+"June 14, 2018",Colorado,Westminster,1,3
+"June 12, 2018",New York,Bronx,0,4
+"June 11, 2018",Alabama,Montgomery,0,4
+"June 11, 2018",Florida,Orlando,5,1
+"June 10, 2018",Florida,Bradenton,1,5
+"June 10, 2018",California,Valley Village,0,6
+"June 10, 2018",Indiana,Indianapolis (Lawrence),1,4
+"June 10, 2018",Illinois,Aurora,0,7
+"June 10, 2018",Illinois,Bloomington,2,2
+"June 10, 2018",Illinois,Chicago,1,5
+"June 9, 2018",Massachusetts,Boston,0,4
+"June 9, 2018",North Carolina,Kannapolis,0,4
+"June 9, 2018",Pennsylvania,Philadelphia,1,4
+"June 5, 2018",Florida,Jacksonville,3,1
+"June 3, 2018",Texas,Dallas,0,5
+"June 3, 2018",Illinois,Chicago,1,3
+"June 2, 2018",Nebraska,Omaha,1,6
+"June 2, 2018",New York,Buffalo,0,5
+"May 31, 2018",South Carolina,Timmonsville,3,2
+"May 27, 2018",Louisiana,Shreveport,0,4
+"May 27, 2018",Colorado,Aurora,1,3
+"May 25, 2018",Ohio,Cincinnati,0,4
+"May 20, 2018",Indiana,Anderson,0,4
+"May 20, 2018",Mississippi,Hazlehurst,1,7
+"May 18, 2018",Texas,Santa Fe,10,13
+"May 16, 2018",Texas,Ponder,5,1
+"May 14, 2018",Maryland,Baltimore,0,4
+"May 13, 2018",California,Stockton,3,2
+"May 13, 2018",Mississippi,Byhalia,0,4
+"May 13, 2018",California,Los Angeles,2,2
+"May 12, 2018",Nebraska,Omaha,0,6
+"May 12, 2018",New Jersey,Paulsboro,0,4
+"May 11, 2018",Missouri,Saint Louis,0,4
+"May 11, 2018",Oklahoma,Talihina,1,4
+"May 9, 2018",Nebraska,Omaha,0,4
+"May 9, 2018",Missouri,Saint Louis,0,4
+"May 7, 2018",California,San Diego,0,5
+"May 6, 2018",Oklahoma,Stillwater,0,4
+"May 6, 2018",Tennessee,Memphis,2,4
+"May 5, 2018",Georgia,Columbus,0,5
+"May 4, 2018",North Carolina,Henderson,0,4
+"May 4, 2018",Illinois,Chicago Heights,0,4
+"May 2, 2018",Illinois,Chicago,1,4
+"May 2, 2018",Minnesota,Minneapolis,0,6
+"May 2, 2018",New York,Brooklyn,1,4
+"May 1, 2018",Louisiana,New Orleans,0,5
+"April 30, 2018",Florida,Pompano Beach,0,4
+"April 30, 2018",District of Columbia,Washington,0,4
+"April 29, 2018",Tennessee,Wartburg,0,4
+"April 29, 2018",Washington,Seattle (Skyway),2,2
+"April 29, 2018",North Carolina,Monroe,1,3
+"April 29, 2018",Florida,West Palm Beach,1,3
+"April 28, 2018",North Carolina,Maxton,0,5
+"April 25, 2018",Arkansas,Pine Bluff,0,4
+"April 25, 2018",Missouri,Saint Louis,3,1
+"April 24, 2018",Michigan,Flint,0,4
+"April 22, 2018",Louisiana,New Orleans,1,5
+"April 22, 2018",Tennessee,Antioch,4,3
+"April 21, 2018",Pennsylvania,Philadelphia,2,2
+"April 20, 2018",California,San Francisco,1,5
+"April 18, 2018",North Carolina,Asheville,4,3
+"April 15, 2018",Louisiana,Shreveport,0,6
+"April 9, 2018",California,Vallejo,0,4
+"April 8, 2018",North Carolina,Hickory,1,3
+"April 8, 2018",Florida,Miami,2,2
+"April 6, 2018",Florida,Jacksonville,0,4
+"April 6, 2018",Virginia,Virginia Beach,1,3
+"April 4, 2018",Louisiana,New Orleans,2,2
+"April 2, 2018",Texas,Houston,1,3
+"April 1, 2018",Alabama,Mobile,1,4
+"April 1, 2018",Michigan,Saginaw,0,5
+"March 31, 2018",New Jersey,Asbury Park,0,5
+"March 29, 2018",Texas,Plano,1,3
+"March 29, 2018",New Jersey,Camden,0,4
+"March 24, 2018",Utah,Salt Lake City (West Valley City),0,4
+"March 21, 2018",California,San Francisco,1,5
+"March 17, 2018",Kentucky,Louisville,0,7
+"March 17, 2018",Illinois,Harvey,0,4
+"March 13, 2018",Florida,Macclenny,0,4
+"March 12, 2018",California,Modesto,0,4
+"March 11, 2018",Illinois,Champaign,1,3
+"March 11, 2018",Michigan,Saginaw,0,5
+"March 11, 2018",Indiana,South Bend,0,6
+"March 9, 2018",North Carolina,Wadesboro,3,1
+"March 7, 2018",Alabama,Hurtsboro,2,2
+"March 4, 2018",Illinois,Rockford,1,4
+"March 3, 2018",Florida,Miami,0,4
+"March 3, 2018",New York,Brooklyn,1,3
+"February 27, 2018",Connecticut,Bridgeport,0,4
+"February 26, 2018",Michigan,Detroit,5,0
+"February 23, 2018",Florida,Palm Beach Gardens (Riviera Beach),1,3
+"February 18, 2018",Texas,San Antonio,0,5
+"February 17, 2018",Kansas,Kansas City,1,7
+"February 17, 2018",Tennessee,Memphis,0,5
+"February 16, 2018",Oklahoma,Oklahoma City,1,3
+"February 14, 2018",Florida,Pompano Beach (Parkland),17,17
+"February 13, 2018",Louisiana,New Orleans,3,3
+"February 11, 2018",Michigan,Detroit,4,3
+"February 10, 2018",Kentucky,Paintsville,5,0
+"February 7, 2018",Florida,Lake Worth (Lantana),3,3
+"February 5, 2018",Colorado,Colorado Springs,2,4
+"February 3, 2018",Ohio,Cleveland (Garfield Heights),1,5
+"January 31, 2018",Missouri,Saint Louis,0,4
+"January 28, 2018",Pennsylvania,Melcroft,5,0
+"January 28, 2018",Pennsylvania,Reading,4,0
+"January 28, 2018",Indiana,Indianapolis,2,3
+"January 27, 2018",California,Los Angeles,0,5
+"January 27, 2018",Kentucky,Bowling Green,0,4
+"January 25, 2018",District of Columbia,Washington,0,4
+"January 23, 2018",Pennsylvania,Philadelphia,0,4
+"January 23, 2018",Kentucky,Benton,2,14
+"January 21, 2018",Florida,Orlando,0,4
+"January 21, 2018",Illinois,Chicago,0,4
+"January 17, 2018",District of Columbia,Washington,1,3
+"January 15, 2018",Florida,Alachua,0,5
+"January 14, 2018",Alabama,Eutaw,1,4
+"January 14, 2018",Alabama,Madison,0,4
+"January 12, 2018",Tennessee,Nashville,3,2
+"January 11, 2018",Missouri,Saint Robert (St Robert),2,2
+"January 7, 2018",Alabama,Union Springs,1,5
+"January 7, 2018",Florida,Plantation,0,4
+"January 5, 2018",Mississippi,Hattiesburg,0,6
+"January 4, 2018",Arkansas,Brinkley,1,3
+"January 1, 2018",Alabama,Huntsville,1,3
